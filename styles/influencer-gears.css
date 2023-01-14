@@ -77,3 +77,10 @@ hr {
     margin-top: 35px;
     margin-bottom: 35px;
 }
+.popular-collection{
+    margin: 100px 196px;
+}
+.popular-collection h2{
+    font-size: 28px;
+    text-align: center;
+}
